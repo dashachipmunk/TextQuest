@@ -11,5 +11,5 @@ public class Steps : MonoBehaviour
     public Steps nextStep1;
     public Steps nextStep2;
 
-    public Sprite image;
+    public Sprite sprite;
 }
